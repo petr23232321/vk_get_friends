@@ -1,0 +1,274 @@
+[
+    {
+        "first_name": "Бауыржан",
+        "last_name": "Болат",
+        "country": null,
+        "city": null,
+        "bdate": null,
+        "sex": "male"
+    },
+    {
+        "first_name": "Бакытжан",
+        "last_name": "Болатов",
+        "country": "Казахстан",
+        "city": "Астана / Нур-Султан",
+        "bdate": "7.12",
+        "sex": "male"
+    },
+    {
+        "first_name": "Султан",
+        "last_name": "Исатаев",
+        "country": "Казахстан",
+        "city": "Алматы",
+        "bdate": "31.7",
+        "sex": "male"
+    },
+    {
+        "first_name": "Жомарт",
+        "last_name": "Рахым",
+        "country": null,
+        "city": null,
+        "bdate": "5.3",
+        "sex": "male"
+    },
+    {
+        "first_name": "Даниил",
+        "last_name": "Рахматулов",
+        "country": "Казахстан",
+        "city": "Алматы",
+        "bdate": "18.11",
+        "sex": "male"
+    },
+    {
+        "first_name": "Әкежан",
+        "last_name": "Даутхан",
+        "country": "Казахстан",
+        "city": "Алматы",
+        "bdate": "12.9.1995",
+        "sex": "male"
+    },
+    {
+        "first_name": "Ильяс",
+        "last_name": "Рымжан",
+        "country": "Казахстан",
+        "city": "Алматы",
+        "bdate": "4.10.2002",
+        "sex": "male"
+    },
+    {
+        "first_name": "Жаксылык",
+        "last_name": "Маратов",
+        "country": "Казахстан",
+        "city": "Семей",
+        "bdate": "19.9",
+        "sex": "male"
+    },
+    {
+        "first_name": "Аян",
+        "last_name": "Кон",
+        "country": "Япония",
+        "city": "Kyōto",
+        "bdate": "1.5",
+        "sex": "male"
+    },
+    {
+        "first_name": "Жанерке",
+        "last_name": "Арбуз",
+        "country": "Казахстан",
+        "city": "Алматы",
+        "bdate": "10.3.2003",
+        "sex": "female"
+    },
+    {
+        "first_name": "Куаныш",
+        "last_name": "Болатов",
+        "country": "Казахстан",
+        "city": "Астана / Нур-Султан",
+        "bdate": null,
+        "sex": "male"
+    },
+    {
+        "first_name": "Батырхан",
+        "last_name": "Жумажанов",
+        "country": null,
+        "city": null,
+        "bdate": "1.2.2000",
+        "sex": "male"
+    },
+    {
+        "first_name": "Саида",
+        "last_name": "Амиртаева",
+        "country": null,
+        "city": null,
+        "bdate": null,
+        "sex": "female"
+    },
+    {
+        "first_name": "Меруерт",
+        "last_name": "Жакелова",
+        "country": "Казахстан",
+        "city": null,
+        "bdate": "1.10.2003",
+        "sex": "female"
+    },
+    {
+        "first_name": "Уалихан",
+        "last_name": "Максат",
+        "country": "Казахстан",
+        "city": "Алматы",
+        "bdate": "19.11.2002",
+        "sex": "male"
+    },
+    {
+        "first_name": "Арука",
+        "last_name": "Абдулла",
+        "country": null,
+        "city": null,
+        "bdate": "18.12.1942",
+        "sex": "female"
+    },
+    {
+        "first_name": "Нурдана",
+        "last_name": "Муратова",
+        "country": null,
+        "city": null,
+        "bdate": null,
+        "sex": "female"
+    },
+    {
+        "first_name": "Meruyert",
+        "last_name": "Rakhymberli",
+        "country": null,
+        "city": null,
+        "bdate": "5.1",
+        "sex": "female"
+    },
+    {
+        "first_name": "Айнель",
+        "last_name": "Масимбай",
+        "country": "Казахстан",
+        "city": null,
+        "bdate": null,
+        "sex": "female"
+    },
+    {
+        "first_name": "Жасдаурен",
+        "last_name": "Сансызбай",
+        "country": "Казахстан",
+        "city": "Алматы",
+        "bdate": "15.10.2003",
+        "sex": "male"
+    },
+    {
+        "first_name": "Zhanat",
+        "last_name": "Aldabergenov",
+        "country": "Казахстан",
+        "city": "Алматы",
+        "bdate": "25.2",
+        "sex": "male"
+    },
+    {
+        "first_name": "Акжол",
+        "last_name": "Жаракан",
+        "country": "Казахстан",
+        "city": "Алматы",
+        "bdate": "29.10.2001",
+        "sex": "male"
+    },
+    {
+        "first_name": "Otes",
+        "last_name": "Sultunbek",
+        "country": "Казахстан",
+        "city": "Алматы",
+        "bdate": "14.6.2002",
+        "sex": "male"
+    },
+    {
+        "first_name": "Али",
+        "last_name": "Малик",
+        "country": "Казахстан",
+        "city": "Алматы",
+        "bdate": "8.5.2002",
+        "sex": "male"
+    },
+    {
+        "first_name": "Raxat",
+        "last_name": "Seitzhan",
+        "country": null,
+        "city": null,
+        "bdate": "7.2.2003",
+        "sex": "male"
+    },
+    {
+        "first_name": "Арна",
+        "last_name": "Сыдыков",
+        "country": null,
+        "city": null,
+        "bdate": null,
+        "sex": "male"
+    },
+    {
+        "first_name": "Дильназ",
+        "last_name": "Юлдашева",
+        "country": "Казахстан",
+        "city": "Алматы",
+        "bdate": "2.12.2002",
+        "sex": "female"
+    },
+    {
+        "first_name": "Нуржан",
+        "last_name": "Болатов",
+        "country": "Казахстан",
+        "city": "Астана / Нур-Султан",
+        "bdate": "3.8",
+        "sex": "male"
+    },
+    {
+        "first_name": "Orken",
+        "last_name": "Nurzharyk",
+        "country": "Казахстан",
+        "city": "Алматы",
+        "bdate": "19.9",
+        "sex": "male"
+    },
+    {
+        "first_name": "Petr",
+        "last_name": "Kavinsky",
+        "country": null,
+        "city": null,
+        "bdate": "25.12.1977",
+        "sex": "male"
+    },
+    {
+        "first_name": "Давид",
+        "last_name": "Элрик",
+        "country": null,
+        "city": null,
+        "bdate": "4.1.1997",
+        "sex": "male"
+    },
+    {
+        "first_name": "Медина",
+        "last_name": "Курманбек",
+        "country": null,
+        "city": null,
+        "bdate": "24.1.1980",
+        "sex": "female"
+    },
+    {
+        "first_name": "Аслан",
+        "last_name": "Болатов",
+        "country": "Казахстан",
+        "city": null,
+        "bdate": "2.12.2002",
+        "sex": "male"
+    },
+    {
+        "first_name": "Seto",
+        "last_name": "Sab",
+        "country": null,
+        "city": null,
+        "bdate": "14.6.2002",
+        "sex": "male"
+    }
+]
